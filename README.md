@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A passionate frontend developer from Bangladesh</h3> -->
 
 
-Assalamu Alaikum. I'm Shahidul Islam. I'm a passionate **Frontend Developer** with expertise in **HTML, CSS, JavaScript, React, and Next.js**. I love creating engaging, user-friendly applications with a focus on clean code and responsive design. I bring creativity and precision to every project, aiming to deliver the best possible user experience. Welcome to my GitHub profile!
+Assalamu Alaikum. My name is Shahidul Islam, and I am a dedicated frontend developer with a strong background in HTML, CSS, JavaScript, React, and Next.js. I have a deep appreciation for crafting engaging and user-friendly applications with an emphasis on clean code and responsive design. I strive to bring both creativity and attention to detail to each project, with the objective of enhancing the user experience to its fullest potential. I invite you to explore my GitHub profile and look forward to any collaborative opportunities.
 <!-- ## 💼 About Me -->
 - 🚀 Always exploring new web technologies and frameworks.
 - 🛠️ Currently deepening my knowledge of **Javascript** and advanced **React** concepts
