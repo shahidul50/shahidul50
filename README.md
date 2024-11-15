@@ -46,16 +46,16 @@ Assalamu Alaikum. My name is Shahidul Islam, and I am a dedicated frontend devel
 ---
 ## 📝 My Notes on Learned Technology
 
-- [CSS Notes](https://github.com/shahidul50/CSS-Practices-Note)
+
 - [Javascript Notes](https://github.com/shahidul50/JavaScript-Practices-Note)
-- [DevCont-1.0 Notes](https://github.com/shahidul50/devConf-1.0-Notes)
+- [CSS Notes](https://github.com/shahidul50/CSS-Practices-Note)
 
 ---
 ## 📝 My Blog Posts
 
 - [HTML Bangla Documentation](https://github.com/shahidul50/HTML-Notes-and-Bangla-Documentation)
 - [CSS Bangla Documentation](https://github.com/shahidul50/CSS-Notes-and-Bangla-Documentation)
-
+- [DevCont-1.0 Notes](https://github.com/shahidul50/devConf-1.0-Notes)
 ---
 
 ## 📈 GitHub Stats
