@@ -52,9 +52,10 @@ Assalamu Alaikum. My name is Shahidul Islam, and I am a dedicated frontend devel
 
 ---
 ## 📝 My Blog Posts
-
+- [Web Development Basic Knowledge](https://github.com/shahidul50/Web-Development-Basic-Knowledge)
 - [HTML Bangla Documentation](https://github.com/shahidul50/HTML-Notes-and-Bangla-Documentation)
 - [CSS Bangla Documentation](https://github.com/shahidul50/CSS-Notes-and-Bangla-Documentation)
+- [Programming Basic Knowledge](https://github.com/shahidul50/Programming-Basic-Knowledge)
 - [DevCont-1.0 Notes](https://github.com/shahidul50/devConf-1.0-Notes)
 ---
 
